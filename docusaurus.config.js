@@ -5,7 +5,7 @@ const config = {
   tagline: 'My book is cooler than dinosaurs',
   favicon: 'img/favicon.ico',
   url: 'https://ianoit.github.io',
-  baseUrl: '/',
+  baseUrl: '/test-doc/',
   organizationName: 'ianoit',
   projectName: 'test-doc',
   onBrokenLinks: 'throw',
